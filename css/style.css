@@ -35832,6 +35832,19 @@ a.u-link.u-text-hover-grey-90:hover {
               margin-top: 52px;
               margin-bottom: 60px;
             }
+            .u-section-2 .u-countdown-label-1
+            .u-section-2 .u-countdown-label-2
+            .u-section-2 .u-countdown-label-3
+            .u-section-2 .u-countdown-label-4
+            .u-section-2 .u-countdown-label-5 {
+                /* font-size: 1rem; */
+                /* text-transform: uppercase; */
+                letter-spacing: 1px;
+                font-weight: bold;
+                font-size: 10px;
+                /* font-weight: normal; */
+                /* font-family: ui-serif; */
+            }
           }
           @media (max-width: 275px) {
             .u-section-2 .u-sheet-1 {
